@@ -4,5 +4,5 @@ b=int(input("Enter Second Number:"))
 c=int(input("Enter Third Number:"))
 d=int(input("Enter Fourth Number:"))
 e=int(input("Enter Fifth Number:"))
-average=(a+b+c+d+e)/5
-print("Average of the given numbers is:",average)
+Avg=(a+b+c+d+e)/5
+print("Avg:",Avg)
